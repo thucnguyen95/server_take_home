@@ -6,3 +6,28 @@ body {
 a {
   color: #00B7FF;
 }
+
+.campaign-header {
+  display: flex;
+  flex-direction: row;
+}
+.campaign-icon {
+  flex: 1;
+}
+.campaign-description {
+  flex: 5;
+}
+.campaign-description > p:nth-of-type(1) {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.campaign-description > p:nth-of-type(2) {
+  color: green;
+}
+.campaign-highlights {
+  background-color: #efefef;
+  padding: 24px 0px;
+}
+.campaign-highlights > video {
+  margin: 0px 12px;
+}

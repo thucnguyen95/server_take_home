@@ -2,4 +2,15 @@ extends layout
 
 block content
   h1= title
-  p Welcome to #{title}
+  div
+    for jsonCampaign in accessibleListings
+      div.campaign-header
+        div.campaign-icon
+          img(src=jsonCampaign['campaign_icon_url'] width=200)
+        div.campaign-description
+          p #{jsonCampaign['campaign_name']}
+          p $#{jsonCampaign['pay_per_install']} per install
+      div.campaign-highlights
+        for jsonMedia in jsonCampaign['media']
+          video(width=200 height=400 controls autoplay )
+            source(src=jsonMedia['media_url'])

@@ -156,5 +156,139 @@
       "country": "MX",
       "creator_id": 2
     }
+  },
+  {
+    "model": "Campaign",
+    "data": {
+      "campaign_name": "Fitness Coach",
+      "campaign_icon_url": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/96/da/00/96da0035-89ac-e46d-5753-2e7449d7d716/source/512x512bb.jpg",
+      "conversion_event": "install",      
+      "media": [
+          {
+            "media_type": "video",
+            "media_url": "https://storage.googleapis.com/plugcoinprod.appspot.com/fitnesscoach%2Fd6f88154-b4d5-428f-9b4f-31b3e6d521b6.mp4?GoogleAccessId=firebase-adminsdk-3v7ys%40plugcoinprod.iam.gserviceaccount.com&Expires=32225472000&Signature=AyVsjbOoj0SW7yz40oZjSB2H2K4c%2BJ4UvcwM6KDjSFpGiGcIw5VA8MnCtfzovZJ3qRrDVqkCqUOhM2vR5np2qy%2Bwsrj7CWIfZINxuc76ZqGiTCkZOwlzaIrYqO10lHZzGmQKoAScqGCcJ4%2FlMp9AlcVVMWsZgkCA%2BAlu5B4mUcFmCKkVWvliYo50mrrgdPQ8Q14ERc9c2Tt1iyENYMAzM%2FwfaqIB83f7dyWKY0f9LFnFQ88Q%2FQ8WzlIdHkWvVEhNeVjH9z1GBFBc3HIseZ0d7rnWQRUDb1K%2FPvaSmJXvYxajd8lSx%2FPqzgPHSpd8VlVPZu%2B4E0y5wZsfa6D4mzLi6g%3D%3D"
+          },
+          {
+            "media_type": "video",
+            "media_url": "https://storage.googleapis.com/plugcoinprod.appspot.com/fitnesscoach%2F8c1087dd-458c-48d5-a967-fa12144458ad.mp4?GoogleAccessId=firebase-adminsdk-3v7ys%40plugcoinprod.iam.gserviceaccount.com&Expires=32225472000&Signature=GR2u9be96RMqTTPNP08LYEuY4jA579XYUh3aLdiZL9lx%2F%2B0ywRVethT%2FbcGKZm6K9yVOtraLV7yYGFj68Opu00rgN8%2Bw2wn4Xk9FpBNQeEoz2PNaGFcAN5jc2Z7rRmYUjYg9KDBawL2D8GD9370FVszugE4%2BeZ%2F9eg%2FLmg3iUBI8InTh%2FuGwULzDxjBnpbyHdXUdnvd7INoartBJoJM0JDAhycdXGPTk%2BGhuQr228BOR0ZASe3q9XXnVOK8ApFtQZQPxrzwnUIZU7%2BIbkfrQKN0aUNEyVHG3NxG4jbVkkOi6B9Qy6pdFiUD4Nt0wEJZoOtfjyj21tRcbnb6asZZw1w%3D%3D"
+          },
+          {
+            "media_type": "video",
+            "media_url": "https://storage.googleapis.com/plugcoinprod.appspot.com/fitnesscoach%2F5be1fdd2-4a33-4d94-8709-c3a4d42f9741.mp4?GoogleAccessId=firebase-adminsdk-3v7ys%40plugcoinprod.iam.gserviceaccount.com&Expires=32225472000&Signature=Nmdty7m6zJNmhhuVgHP0c8%2FLS4AV3ylsdTC3Cq%2B6jpPzPSPVz6QC6TK9mA03pscKtynY21IY7GFtOalJFamLwO6DtFUUNOjZIlwqZUnE2uYIB%2BMcgMz4p4tSmKvIj0d3Wo17KKQTUVScT08VNReEP8qomDZQyres7qlXgJtcqR18Am3lY3w9HwC8SX4AcD62nifuHeE1XrEUVMteIs75BuEU%2FXMx6aSJ%2BP2TEcgrovLCKAtEqrd%2Be37Ms7QdvX3So%2BcqwVDsCc2qeRjf2dyw0dpzXGqjvvPC%2B2zl%2BKnjSwa2Bb%2BNZVKBzze0Ihtv%2F6UxMeGaKFexCe0%2BYWtL2GPNiw%3D%3D"
+          },
+          {
+            "media_type": "video",
+            "media_url": "https://storage.googleapis.com/plugcoinprod.appspot.com/fitnesscoach%2F29095a5e-996e-4e41-a64a-fb5c8fc241ca.mp4?GoogleAccessId=firebase-adminsdk-3v7ys%40plugcoinprod.iam.gserviceaccount.com&Expires=32225472000&Signature=NTQY9wAJJrfPz3Sn0ndenJJaxieqWt8c%2FqD7qZUWnsgOm1PZHPOYMmnOzX%2FG3UVgZggVwHuGK%2FRNKtqR2mg5jkhpW0iRL3jXZRKGTA4kI7EIWkxWsjEUHiptw76aDLkCWeHzDB2gNs6GYRZQtyibsSEWvTzzoauMLIoO7QXP0NygqWlP%2Ba6lnCLiBwIHPcchWL4IkI%2FWJcgix4oRTHrfDg4j1SoZ15pQfY%2FXBfXm%2FCof%2F2uk8dAm11b3cT%2BnQUarI3VTZbe8SgvOtsOINp04dXZHzai3bpFJiAlFQHL1kqLGHdXxN5byaPFMVay7wNwCs5aS9MpUlAF2nSFNLsD%2BCw%3D%3D"
+          },
+          {
+            "media_type": "video",
+            "media_url": "https://storage.googleapis.com/plugcoinprod.appspot.com/fitnesscoach%2Ff4d6a184-8705-48f8-94ee-9fcb4e47d912.mp4?GoogleAccessId=firebase-adminsdk-3v7ys%40plugcoinprod.iam.gserviceaccount.com&Expires=32225472000&Signature=jNB4e%2B8Njf1tn%2Fs5qwcsW%2Fp9yrUl5ZW69FR6PCC2aOdJi6jyUisG8G5EOk7rT8382NDTGVLvbZZfWxO8xBo%2FKCwHGN2OxoQQW6JQEDJUGqXnsbgJX1YjjnykA%2F6D1Ik%2FOS65bxb4r1cgvAnotR%2FHNSmql796FFFoz6FI5iilt4Z7JGTXJRN8v0xQ1W1jaLkIXwkz%2FGqKX6z2ob1X5EuKV%2FDz7Nkye%2FmIZCYuye6zKE39tkbs2ANkAhudh5qbcsfOsfkxQjfOtwoJd5TU0H1kH9FSjCkLnViGbbV%2FecC5uz4OHtTjmEjvO2UqETiDhnDATo6BvBB72CL25GiiSWb0Fw%3D%3D"
+          }
+        ],
+      "pricing": [
+        {
+          "platform": "ios",
+          "country": "US",
+          "price": 2
+        },
+        {
+          "platform": "android",
+          "country": "US",
+          "price": 1.5
+        },
+        {
+          "platform": "ios",
+          "country": "CA",
+          "price": 1.2
+        },
+        {
+          "platform": "android",
+          "country": "CA",
+          "price": 0.8
+        },
+        {
+          "platform": "ios",
+          "country": "MX",
+          "price": 1
+        },
+        {
+          "platform": "android",
+          "country": "MX",
+          "price": 0.6
+        }
+      ],
+      "access": [1, 2]
+    }
+  },
+  {
+    "model": "Campaign",
+    "data": {
+      "campaign_name": "Candy Crush",
+      "campaign_icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/25/7a/95/257a95b9-9f3b-e07d-04f9-40890d4f8f31/source/512x512bb.jpg",
+      "conversion_event": "install",      
+      "media": [
+          {
+            "media_type": "video",
+            "media_url": "https://storage.googleapis.com/plugcoinprod.appspot.com/candycrushsaga%2F8c5c39a0-523f-4936-8655-749f72f416d4.mp4?GoogleAccessId=firebase-adminsdk-3v7ys%40plugcoinprod.iam.gserviceaccount.com&Expires=32225472000&Signature=EX4LTx%2B74ULa43Cc7maqPxKKPPcsMnd%2FU8lc5psIQG1tgxkHoKbBSmcQyXh9jI6WlBgHiSWM4dT5ovJs5SaM8IRfC%2FJsfDMY21JaQF00%2BKZsS8cFm0JvuNROIwB%2FacIZsLenWKosTospuJx%2Fstxtg5E7PEjVzHKlsnJJCyND4ro3BtKE1bposqZirKyb3nBu8Mk5wvnryljrhnoTU8w%2FpM8TvazcgV7E%2F38R3EsUFNv%2BSyA1%2FabWAOPl6DUZexWqJ%2B%2FYAvhzN41yqc8wgD0MMmcL8usRRFpD%2FXgtl02tbRS79CpW5nUS%2FK7fn690tpA7pWeWQQHvD23mh8WfwW9uYg%3D%3D"
+          },
+          {
+            "media_type": "video",
+            "media_url": "https://storage.googleapis.com/plugcoinprod.appspot.com/candycrushsaga%2F6240ece1-eccb-4fbf-9a27-ab2b02a37e61_watermarked.mp4?GoogleAccessId=firebase-adminsdk-3v7ys%40plugcoinprod.iam.gserviceaccount.com&Expires=16447017600&Signature=XNIX%2FKpgutJh%2BLzgI24DKa7lTLcT623aFiqbUuI4gXh%2FBF4ytPzLpkSH82GhgN6p9qgfeXGBA4ozbihGflWuEI8Cv5ljYWXzkPchDK4jw5wCXxswWqrCZXkAWTYozXD5siLOzNRNEDHeVEcSAx%2BYc3vJbkRumRucowUmaO9KuV7aYWaFXNbkihb56NDFmh5bzf%2Fx1FtKEwMyY5Ir9IXfc5NwpHyw2Ms8ETmTiGTKqvWH3oOO2LE5Gy4izRLnr4oJTFgrLhgu%2BOtY2sMokgwPZSqsjttrfs3eRGF7v%2FebQq0yZwLiR3Goo37chSsBBVVJmQIuhG64cCUFeiyrM4LoJQ%3D%3D"
+          },
+          {
+            "media_type": "video",
+            "media_url": "https://storage.googleapis.com/plugcoinprod.appspot.com/candycrushsaga%2F1AE6CBCD-1650-4208-B4FD-0F324E74C962-29628-000019D7BE3AC2BD_44993.mp4?GoogleAccessId=firebase-adminsdk-3v7ys%40plugcoinprod.iam.gserviceaccount.com&Expires=16447017600&Signature=GnSGMmxZ%2ByYWiY2fWz%2Fi4pz1uNdnZ0q86z4RQWAsTbY0%2Fn4F1Vorj5unsd%2B5WnX%2BnAonhVFWAM%2FOho0HSszEQuosBkorI8SvI%2Fwap2cX3D4XFup0sM9MLHTvp6sarWLXPHFNtesjPL7ZDbuGm8DVTLF3MNb%2BHQ%2Bo6r2%2BiqkPPjX9mUWfAkaiPuvqcCJ9jC7UR%2B60fmTtP%2B6C52e6Dwa5jMjRjZOKloanYYwZSDBLHKMbvxk4dgRvdnjRvZBRt118tXjs%2FUn5K5tCyQFXAJ50mdC1vGO8gQRRIkKsDwvGrmnbhe9ZuIuoWKl8rVDgyoYpvUJhOxi1xokD6qRaImuiVQ%3D%3D"
+          },
+          {
+            "media_type": "video",
+            "media_url": "https://storage.googleapis.com/plugcoinprod.appspot.com/candycrushsaga%2F45224_EO6E3ZUIP7JGPNI6JTAKNNXE0622CDZLHDKU9QC3SESXJSM6GH.mov?GoogleAccessId=firebase-adminsdk-3v7ys%40plugcoinprod.iam.gserviceaccount.com&Expires=16447017600&Signature=YVKm5fpj%2Fzj%2Fk9MjB5UergRlp1YP7JH6gNXIdq2Uf5sYuYVz2HPRmooUfaeChL%2FXPJYWxhKiJWAook5sOU35c9srjv8hFjYgQFMoFFAQu3pXDcEqYIvHY6b%2B4mnq7y3IvjSdavyjJ904ypf9XVqePTT0ydOJKEIDFcrypw4ZdfYoRlIFC68%2Bu2%2Brct71Ldk4Pc4nYvp9eNgR%2BHrrNatbfelj1kz3Vsr9sEtypavKsZYCDYdWYEfJn03A3UEtA4i29tImdGqn20hu5Zg7HM9FjpWUbj%2BkDGHlaQsOOT2vh7j6eae%2BgbgqBBTptzPBkdUooF3VboUuMOdGECsPHJEkVA%3D%3D"
+          }
+        ],
+      "pricing": [
+        {
+          "platform": "ios",
+          "country": "US",
+          "price": 1
+        },
+        {
+          "platform": "android",
+          "country": "US",
+          "price": 0.5
+        },
+        {
+          "platform": "ios",
+          "country": "CA",
+          "price": 0.8
+        },
+        {
+          "platform": "android",
+          "country": "CA",
+          "price": 0.4
+        },
+        {
+          "platform": "ios",
+          "country": "MX",
+          "price": 0.6
+        },
+        {
+          "platform": "android",
+          "country": "MX",
+          "price": 0.3
+        }
+      ],
+      "access": [2]
+    }
+  },
+  {
+    "model": "Publisher",
+    "data": {
+      "name": "Publisher 1"
+    }
+  },
+  {
+    "model": "Publisher",
+    "data": {
+      "name": "Publisher 2"
+    }
   }
 ]
